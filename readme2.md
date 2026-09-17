@@ -1,5 +1,5 @@
 # Jurnal Praktikum Pengenalan IDE
-nama:Renaldi Remon Wayega
+nama: Renaldi Remon Wayega
 
 kesan pertama menggunakan Visual studio code:
 * antarmukanya terlihat profesional.
